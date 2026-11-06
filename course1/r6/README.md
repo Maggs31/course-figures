@@ -5,4 +5,4 @@ referenced by raw URL pinned to the commit. Files are never renamed or deleted.
 
 | File | Source |
 |---|---|
-| r6_models_strip.png | drawn for the recitation |
+| r6_models_strip.png | drawn for the recitation, redrawn 4 Nov with Grounding DINO in place of SAM |
